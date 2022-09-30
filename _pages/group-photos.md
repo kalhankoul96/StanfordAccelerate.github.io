@@ -8,7 +8,7 @@ hide_hero: true
 <table style="width:100%">
   <tbody>
       <tr>
-      <td style="width:50%"><img src="/assets/images/group_photo_may_15_2022.png" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
+      <td style="width:50%"><img src="/assets/images/group_photo_may_15_2022.jpg" width="800" align="center" style="padding-right: 30px; padding-bottom: 20px;"></td>
       <td>Group photo from May 15, 2022. From left to right: Po-Han Chen, Jake Ke, Yuchen Mei, Jeffery Yu, Jackson Melchert, Kalhan Koul, Kartik Prabhu, Priyanka Raina.</td>
     </tr>
     <tr>
